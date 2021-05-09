@@ -70,7 +70,7 @@ h1 {
 =============================*/
 
 .cover {
-    background: url(assets/GA-0538.jpg) no-repeat 50% center/cover;
+    background: url(assets/GA-0538.jpg) no-repeat 40% center/cover;
     display: table;
     text-align: center;
     height: 100vh;
@@ -298,7 +298,7 @@ footer {
     .cover {
       background: url(assets/GA-0538.jpg) no-repeat center/cover;
         height: 100vh;
-        padding: .625rem 0 0;
+        padding: 18rem 0;
     }
 
   
